@@ -37,8 +37,6 @@ Hii, this is Winson!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winson5552&theme=vision-friendly-dark&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Winson5552&theme=vision-friendly-dark&include_all_commits=true&rank_icon=github)
-
 </div>
 
 </div>
