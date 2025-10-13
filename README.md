@@ -25,6 +25,9 @@ Hii, this is Winson!
 ### ☁️ Cloud & Backend Services
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" style="height:22px;"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="height:22px;"> 
 
+### ☁️ Database
+<img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle" style="height:22px;"> 
+
 ### 🎨 Design Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="height:22px;"> 
 
