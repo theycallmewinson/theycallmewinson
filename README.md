@@ -35,7 +35,7 @@ Hii, this is Winson!
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winson5552&theme=vision-friendly-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theycallmewinson&theme=vision-friendly-dark&layout=compact)
 
 </div>
 
