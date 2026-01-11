@@ -13,7 +13,7 @@ Hii, this is Winson!
 
 - 🎓 I’m studying **Diploma In Computer Science** at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**
 
-- 🤖 Interested in **AI, Mobile Software Development**
+- 🤖 Interested in **AI, Mobile Software Development, Blockchain, Cloud Computing**
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/winsontanyongsheng/)
 
@@ -30,12 +30,6 @@ Hii, this is Winson!
 
 ### 🎨 Design Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="height:22px;"> 
-
-## 🔥 My Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theycallmewinson&theme=vision-friendly-dark&layout=compact)
 
 </div>
 
